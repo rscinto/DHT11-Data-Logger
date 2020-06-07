@@ -9,5 +9,5 @@ The data from the card can be used like any CSV(comma separated value) file and 
 Go get that data. 
 
 
-![Board Overview](https://github.com/rscinto/DHT11-Data-Logger/blob/master/Pictures/Breadboard.jpg)
+![PLANK](https://github.com/rscinto/DHT11-Data-Logger/blob/master/Pictures/Overview.jpg)
 ![Graphing Data](https://github.com/rscinto/DHT11-Data-Logger/blob/master/Pictures/GraphingData.PNG)
